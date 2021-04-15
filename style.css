@@ -106,7 +106,7 @@ body{
   opacity: 0.5;
   font-weight: 300;
   letter-spacing: 1px;
-  transition: 0.45s;
+  transition: 0.5s;
 }
 .container .card span{
   transition: 0.5;
